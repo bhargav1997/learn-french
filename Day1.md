@@ -2,7 +2,7 @@ Let's start with the basics! Learning French can be exciting and rewarding, espe
 
 ### Greetings and Basic Expressions:
 
-1. **Bonjour** (bohn-zhoor) - Hello
+1. **Bonjour** (bohn-zhoor) - Hello / Good morning
 2. **Salut** (sah-loo) - Hi/Hello (informal)
 3. **Comment ça va ?** (koh-mah sah vah) - How are you?
 4. **Ça va bien, merci. Et toi ?** (sah vah byan, mehr-see. Ay twah?) - I'm fine, thank you. And you?
@@ -11,6 +11,9 @@ Let's start with the basics! Learning French can be exciting and rewarding, espe
 7. **De rien** (duh ryen) - You're welcome
 8. **Excusez-moi** (ehk-skew-zay mwah) - Excuse me
 9. **Au revoir** (oh ruh-vwahr) - Goodbye
+10. **Bonne soirée** (bun swah-ray) - Good evening
+11. **Bonne nuit** (bun nwee) - Good night
+12. **Bon après-midi** (bohn ah-preh-mee-dee) - Good afternoon
 
 ### Introducing Yourself:
 
